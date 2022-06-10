@@ -1,0 +1,102 @@
+Author,Year,country,region,pmid,source_database,enrol_begin,enrol_end,FU_begin,FU_end,BC_stages,definitely_no_prevalent_cases,sample,percent_event,n_events,median_FU,PY_FU,ir_1000,ir_cilb,ir_ciub,how_calculated,comments,"Sample size
+[Question ID: 28879][Field ID: 47375x61839]","Age - Mean age of the population
+[Question ID: 28763][Field ID: 47122x61569]","Age - standard deviation
+[Question ID: 28763][Field ID: 47123x61570]","Age - % of different age categories 
+[Question ID: 28763][Field ID: 47124x61571]","Age - Comments
+[Question ID: 28763][Field ID: 47125x61572]","Males (percentage) - Males (percentage)
+[Question ID: 28764][Field ID: 47126x61573]","Males (percentage) - Comments
+[Question ID: 28764][Field ID: 47133x61580]","Percentage of patients with postmenopausal status - Percentage 
+[Question ID: 28765][Field ID: 47127x61574]","Percentage of patients with postmenopausal status - Comments
+[Question ID: 28765][Field ID: 47134x61581]","Race - White (Caucasian)
+[Question ID: 28766][Field ID: 47128x61575]","Race - Hispanic  
+[Question ID: 28766][Field ID: 47129x61576]","Race - African–American (Black)
+[Question ID: 28766][Field ID: 47130x61577]","Race - Asian
+[Question ID: 28766][Field ID: 47131x61578]","Race - Comments
+[Question ID: 28766][Field ID: 47132x61579]","History of ischemic heart disease (percentage) - percentage
+[Question ID: 28767][Field ID: 47135x61582]","History of ischemic heart disease (percentage) - Comments
+[Question ID: 28767][Field ID: 47136x61583]","History of cardiac disease - Percentage 
+[Question ID: 28768][Field ID: 47137x61584]","History of cardiac disease - Comments
+[Question ID: 28768][Field ID: 47138x61585]","History of diabetes (percentage) - Percentage 
+[Question ID: 28769][Field ID: 47139x61586]","History of diabetes (percentage) - Comments
+[Question ID: 28769][Field ID: 47140x61587]","Hypertension - Percentage 
+[Question ID: 28770][Field ID: 47142x61589]","Hypertension - Comments
+[Question ID: 28770][Field ID: 47143x61590]","Smoking - Percentage 
+[Question ID: 28771][Field ID: 47144x61591]","Smoking - Comments
+[Question ID: 28771][Field ID: 47145x61592]","Alcohol - Percentage 
+[Question ID: 28772][Field ID: 47146x61593]","Alcohol - Comments
+[Question ID: 28772][Field ID: 47147x61594]","Dyslipidemia (if not reported - use of lipid-lowering therapy) - Percentage 
+[Question ID: 28773][Field ID: 47148x61595]","Dyslipidemia (if not reported - use of lipid-lowering therapy) - Comments
+[Question ID: 28773][Field ID: 47149x61596]","Atrial fibrillation - Percentage 
+[Question ID: 28774][Field ID: 47150x61597]","Atrial fibrillation - Comments
+[Question ID: 28774][Field ID: 47151x61598]","Prior myocardial infarction (baseline characteristics) - Percentage 
+[Question ID: 28775][Field ID: 47152x61599]","Prior myocardial infarction (baseline characteristics) - Comments
+[Question ID: 28775][Field ID: 47153x61600]","Previous heart failure  - Percentage 
+[Question ID: 28776][Field ID: 47154x61601]","Previous heart failure  - Comments
+[Question ID: 28776][Field ID: 47155x61602]","Previous stroke - Percentage 
+[Question ID: 28777][Field ID: 47156x61603]","Previous stroke - Comments
+[Question ID: 28777][Field ID: 47157x61604]","Peripheral artery disease - Percentage 
+[Question ID: 28778][Field ID: 47158x61605]","Peripheral artery disease - Comments
+[Question ID: 28778][Field ID: 47159x61606]","Valvular heart disease - Percentage 
+[Question ID: 28779][Field ID: 47160x61607]","Valvular heart disease - Comments
+[Question ID: 28779][Field ID: 47161x61608]","Abnormal renal function - Percentage 
+[Question ID: 28780][Field ID: 47162x61609]","Abnormal renal function - Comments
+[Question ID: 28780][Field ID: 47163x61610]","Charlson Comorbidity Index - Mean value
+[Question ID: 28781][Field ID: 47164x61611]","Charlson Comorbidity Index - percentage for different categories
+[Question ID: 28781][Field ID: 47165x61612]","History of hormonal replacement therapy (percentage) - Percentage 
+[Question ID: 28782][Field ID: 47166x61613]","History of hormonal replacement therapy (percentage) - Comments
+[Question ID: 28782][Field ID: 47167x61614]","Body mass index (mean value) - Mean value
+[Question ID: 28783][Field ID: 47168x61615]","Body mass index (mean value) - Standard deviation
+[Question ID: 28783][Field ID: 47169x61616]","Body mass index (mean value) - Overweight percentage
+[Question ID: 28783][Field ID: 47170x61617]","Body mass index (mean value) - Comments
+[Question ID: 28783][Field ID: 47171x61618]","Breast cancer stage (percentage) - Stage 0 (ductal carcinoma in situ)/ local
+[Question ID: 28784][Field ID: 47172x61619]","Breast cancer stage (percentage) - Stage I (local)
+[Question ID: 28784][Field ID: 47173x61620]","Breast cancer stage (percentage) - Stage II (regional)
+[Question ID: 28784][Field ID: 47174x61621]","Breast cancer stage (percentage) - Stage III (regional)
+[Question ID: 28784][Field ID: 47176x61623]","Breast cancer stage (percentage) - Stage IV (distant/metastatic)
+[Question ID: 28784][Field ID: 47177x61624]","Breast cancer stage (percentage) - Local/Regional/distant
+[Question ID: 28784][Field ID: 47178x61625]","Breast cancer stage (percentage) - Comments
+[Question ID: 28784][Field ID: 47179x61626]","Tumor differentiation grade - Good - 1
+[Question ID: 28785][Field ID: 47180x61627]","Tumor differentiation grade - Moderate - 2
+[Question ID: 28785][Field ID: 47181x61628]","Tumor differentiation grade - Poor - 3
+[Question ID: 28785][Field ID: 47182x61629]","Tumor differentiation grade - Comments
+[Question ID: 28785][Field ID: 47183x61630]","Type of breast cancer - Estrogen receptor positive
+[Question ID: 28786][Field ID: 47185x61632]","Type of breast cancer - Progesteron receptor positive
+[Question ID: 28786][Field ID: 47186x61633]","Type of breast cancer - Her2 positive 
+[Question ID: 28786][Field ID: 47187x61634]","Type of breast cancer - Triple negative
+[Question ID: 28786][Field ID: 47188x61635]","Type of breast cancer - Any hormon receptor positive
+[Question ID: 28786][Field ID: 47189x61636]","Type of breast cancer - Comments
+[Question ID: 28786][Field ID: 47329x61783]","Axillary lymph node status  - negative
+[Question ID: 28787][Field ID: 47190x61637]","Axillary lymph node status  - positive
+[Question ID: 28787][Field ID: 47191x61638]","Axillary lymph node status  - comments
+[Question ID: 28787][Field ID: 47192x61639]","Laterality of breast cancer - Left-sided
+[Question ID: 28788][Field ID: 47193x61640]","Laterality of breast cancer - Right-sided
+[Question ID: 28788][Field ID: 47194x61641]","Laterality of breast cancer - Both sides
+[Question ID: 28788][Field ID: 47195x61642]","Laterality of breast cancer - Comments
+[Question ID: 28788][Field ID: 47196x61643]","Size of breast tumor - < 2 cm
+[Question ID: 28789][Field ID: 47197x61644]","Size of breast tumor - 2-5 cm
+[Question ID: 28789][Field ID: 47198x61645]","Size of breast tumor - > 5 cm
+[Question ID: 28789][Field ID: 47199x61646]","Size of breast tumor - Comments
+[Question ID: 28789][Field ID: 47200x61647]","Type of surgical treatment - Surgery (percentage)
+[Question ID: 28790][Field ID: 47201x61648]","Type of surgical treatment - Mastectomy 
+[Question ID: 28790][Field ID: 47202x61649]","Type of surgical treatment - Breast-conserving surgery
+[Question ID: 28790][Field ID: 47203x61650]","Type of surgical treatment - Ovarian ablation
+[Question ID: 28790][Field ID: 47204x61651]","Type of surgical treatment - axillary lymph node dissection
+[Question ID: 28790][Field ID: 47205x61652]","Type of surgical treatment - Comments
+[Question ID: 28790][Field ID: 47206x61653]","Anti-cancer systemic treatment - Adjuvant  systemic treatment (after surgery), %
+[Question ID: 28799][Field ID: 47223x61670]","Anti-cancer systemic treatment - Neoadjuvant  systemic treatment (before surgery), %
+[Question ID: 28799][Field ID: 47224x61671]","Anti-cancer systemic treatment - Any endocrine/hormonal therapy (tamoxifen/aromotase inhibitor), %
+[Question ID: 28799][Field ID: 47225x61672]","Anti-cancer systemic treatment - Tamoxifen use, %
+[Question ID: 28799][Field ID: 47226x61673]","Anti-cancer systemic treatment - Other aromatase inhibitor use, %
+[Question ID: 28799][Field ID: 47227x61674]","Anti-cancer systemic treatment - Chemotherapy (antracycline/taxane/cyclophosphamide based), %
+[Question ID: 28799][Field ID: 47228x61675]","Anti-cancer systemic treatment - Antracycline use, %
+[Question ID: 28799][Field ID: 47229x61676]","Anti-cancer systemic treatment - Any Anti-HER2 therapy (Trastuzumab/pertuzumab/neratinib/etc)
+[Question ID: 28799][Field ID: 47230x61677]","Anti-cancer systemic treatment - Trastuzumab use, %
+[Question ID: 28799][Field ID: 47231x61678]","Anti-cancer systemic treatment - Comments
+[Question ID: 28799][Field ID: 47232x61679]","Radiation therapy - Adjuvant radiotherapy, %
+[Question ID: 28800][Field ID: 47233x61680]","Radiation therapy - Total radiation dose (mean)
+[Question ID: 28800][Field ID: 47234x61681]","Radiation therapy -  Moderate hypofractionation schedules, %
+[Question ID: 28800][Field ID: 47235x61682]","Radiation therapy - Techniques
+[Question ID: 28800][Field ID: 47236x61683]","Radiation therapy - Comments
+[Question ID: 28800][Field ID: 47237x61684]"
+Abdel-Qadir,2019,Canada,Ontario,31539076,Ontario Health Insurance Plan,2007,2016,0,11.5,"1,2,3",1,68113,7.4,5040,5.7,388244.1,12.98152374,12.62802718,13.34491573,formula,unique database,68113,60,13,,,,,,,,,,,,5.5,,7.5,,15.9,,43.4,,,,,,,,0,,0.6,,2.1,,0.4,,1.4,,,,2.3,,,,,,,,,,0,44.3,38.7,13.4,0,,,,,,,,,,,,,,,,50.4,48.7,0.9,,,,,,,39.1,,,,,,,,,,53.2,,,,,71.7,,,,
+Wang,2014,USA,nationwide,24951268,SEER,2005,2009,0,5,,0,585,,20,4.2,2457,8.14000814,5.251542571,12.61719421,formula,unique database,585,,,,,0,,100,,88,5.6,,,,,,,,,,,,,,,,,,0,,0,,0,,0,,,,,,,,,,,,,,,,0,27.4,48.7,23.9,0,,,,,65.1,30.3 - good/moderate,,,,,,,46.2,49.2,,,,,,,,,,,,,,,,,10,,,,,48,100,100,,62.2,,,,
