@@ -1,0 +1,15 @@
+Author,Year,country,region,pmid,source_database,enrol_begin,enrol_end,hr_0,hr_0_cilb,hr_0_ciub,hr_0_period,hr_1,hr_1_cilb,hr_1_ciub,hr_1_period,hr_2,hr_2_cilb,hr_2_ciub,hr_2_period,hr_comment,irr,irr_cilb,irr_ciub,irr_comment,sir_1,sir_1_cilb,sir_1_ciub,sir_1_period,sir_2,sir_2_cilb,sir_2_ciub,sir_2_period,comments
+Boekel,2016,the Netherlands,nationwide,27026313,Netherlands Cancer Registry,1989,2005,,,,,,,,,,,,,,,,,,"0,92","0,88","0,97",0-21,"0,92","0,88","0,97",0-21,Invasive BC I-III
+Koczwara,2021,Australia,South Australia,33296507,South Australian Cancer Registry,1990,1999,,,,,,,,,,,,,,,,,,,,,,"1,25","1,15","1,36",5-26,
+Weberpals,2018,USA,18 regional cance rregistries,29635274,SEER,2000,2002,,,,,,,,,,,,,,,,,,,,,,"0,84","0,79","0,9",10-15,
+Riihimka,2012,Sweden,nationwide,21586686,Swedish Family-Cancer Database,1987,2006,"1,0904","1,0704","1,1107",0-19,"1,0904","1,0704","1,1107",0-19,,,,,fixed MA,,,,,,,,,,,,,
+Wang,2021,USA,nationwide,34713838,SEER,2010,2016,,,,,,,,,,,,,,,,,,"3,9468","3,7536","4,1499",0-6,,,,,
+Elshof,2018,the Netherlands,nationwide,27026313,Netherlands Cancer Registry,1989,2004,,,,,,,,,,,,,,,,,,"0,77","0,69","0,85",0-21,"0,77","0,69","0,85",0-21,DCIS
+Bradshaw,2016,USA,New-York county,26414938,Long Island Breast Cancer Study Project,1996,1997,"0,8","0,53","1,2",0-7,"1,8","1,3","2,5",7-13.5,,,,,,,,,,,,,,,,,,
+Chang,2017,Korea,nationwide,28717853,Korean Breast Cancer Society,1990,2012,,,,,,,,,,,,,,,,,,"1,9","0,9","1,9",0-23,"1,9","0,9","1,9",0-23,
+Staszewsky,2020,Italy,Puglia,32588164,Italian National Health System,2007,2013,"1,2067","1,0179","1,4304",0-5,,,,,,,,,,,,,,,,,,,,,,
+Ramin,2021,USA,Washington county,32634223,CLUE II cohort,1996,2009,"0,99","0,59","1,66",0-8,"1,71","1,03","2,83",8-25,,,,,overall HR available,,,,,,,,,,,,,
+Park,2017,USA,40 clinical centers,28934233,Women’s Health Initiative,1998,,"0,92","0,67","1,26",0-14,"0,92","0,67","1,26",0-14,,,,,,,,,,,,,,,,,,
+James,2018,New Zealand ,single center,29436171,,2002,2006,,,,,,,,,,,,,,,,,,"0,89","0,01","3,13",0-10,,,,,
+Henson,2016,UK,England and Wales,27821538,the teenage and Young adult cancer survivor study ,1990,2014,,,,,,,,,,,,,,,,,,,,,,"0,9708","0,6808","1,3842",5-24,
+Paterson,2022,Canada,Alberta,35492824,Alberta Health Registry,2007,2018,"1,14","1,05","1,23",0-11,"1,14","1,05","1,23",0-11,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,11 @@
+Author,Year,country,region,pmid,source_database,enrol_begin,enrol_end,hr_0,hr_0_cilb,hr_0_ciub,hr_0_period,hr_1,hr_1_cilb,hr_1_ciub,hr_1_period,hr_2,hr_2_cilb,hr_2_ciub,hr_2_period,hr_3,hr_3_cilb,hr_3_ciub,hr_3_period,hr_4,hr_4_cilb,hr_4_ciub,hr_4_period,hr_comment,irr,irr_cilb,irr_ciub,irr_comment,sir,sir_cilb,sir_ciub,sir_comment
+Armenian,2016,USA,Southern California,26834065,SEER-Kaiser Permanente Southern California ,2000,2007,,,,,,,,,,,,,,,,,,,,,,"1,35","1,19","1,54",,,,,
+Lee,2020,Korea,nationwide,31454422,Korean National Health Information Database ,2007,2013,,,,,,,,,"1,396","1,268","1,538",2-8,,,,,,,,,reported,,,,,,,,
+Boekel,2018,the Netherlands,,30065254,,2000,2009,,,,,,,,,,,,,,,,,,,,,,,,,,"1,5",1,2,
+Khan,2011,UK,nationwide,22048030,General Practice Research Database,2003,2006,,,,,,,,,,,,,"1,95","1,27","3,01",5-8,,,,,reported,,,,,,,,
+Ng,2019,Canada,British Columbia,31280456,Breast Cancer Registry,2005,2009,"1,23","1,14","1,32",0-8,"1,23","1,14","1,32",0-8,"1,23","1,14","1,32",0-8,"1,23","1,14","1,32",0-8,,,,,reported,,,,,,,,
+Lash,2014,USA,6 states,24584822,Medicare,1990,1994,,,,,,,,,,,,,1,"0,89","1,2",5-15,1,"0,89","1,2",5-15,reported,,,,,,,,
+Staszewsky,2020,Italy,Puglia,32588164,Italian National Health System,2007,2013,1,"0,88","1,13",0-5,1,"0,88","1,13",0-5,1,"0,88","1,13",0-5,,,,,,,,,reported,,,,,,,,
+Abdel-Qadir,2019,Canada,Ontario,30715404,Ontario Cancer Registry ,2005,2015,"1,21","1,14","1,29",0-12,"1,21","1,14","1,29",0-12,"1,21","1,14","1,29",0-12,"1,21","1,14","1,29",0-12,,,,,reported,,,,,,,,
+Paterson,2022,Canada,Alberta,35492824,Alberta Health Registry,2007,2018,"1,26","1,2","1,33",0-11,"1,26","1,2","1,33",0-11,"1,26","1,2","1,33",0-11,"1,26","1,2","1,33",0-11,,,,,reported,,,,,,,,
+Yang,2022,Sweden,Stockholm- Gotland ,35293856,Stockholm- Gotland Breast Cancer Register ,2001,2008,"2,71","1,7","4,33",0-1,"2,07","1,27","3,37",1-2,"1,14","0,82","1,59",2-5,"1,02","0,81","1,29",5-10,"1,28","1,03","1,59",10-17,reported,,,,,,,,

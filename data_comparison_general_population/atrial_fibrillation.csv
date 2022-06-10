@@ -1,0 +1,6 @@
+Author,Year,country,pmid,source_database,enrol_begin,enrol_end,hr_0,hr_0_cilb,hr_0_ciub,hr_0_period,hr_1,hr_1_cilb,hr_1_ciub,hr_1_period,hr_2,hr_2_cilb,hr_2_ciub,hr_2_period,hr_comment
+Dsouza ,2018,Denmark,30709772,Danish National Patient Registry,1998,2015,"1,2049","1,0238","1,4179",0-0.5,"1,1916","1,0968","1,2945",0.5-3,,,,,obtained with fixed method meta-analysis
+Saliba,2018,Israel,29324747,Breast Cancer in Northern Israel Study ,2000,,"2,74","1,29","5,81",0-0.25,"1,22","1,01","1,46",0.25-3,"1,24","0,99","1,56",>3,reported
+Abdel-Qadir,2019,Canada-Ontario,31539076,Ontario Health Insurance Plan,2007,2016,"2,16","1,94","2,41",0-1,"1,04","0,93","1,16",2-3,"1,2","1,11","1,3",5-11.5,reported
+Guha,2022,USA,34791123,SEER,2007,2014,"1,98","1,73","2,27",0-1,,,,,,,,,reported
+Staszewsky,2020,Italy-Puglia,32588164,Italian National Health System,2007,2014,"1,09","0,97","1,23",0-3,"1,09","0,97","1,23",0-3,"1,05","0,93","1,19",0-5,reported
